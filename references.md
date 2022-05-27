@@ -1,1 +1,5 @@
+---
+layout: publications
+title: "References"
+---
 
