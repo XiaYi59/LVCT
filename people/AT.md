@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "First Speaker"
+title: "Dr. Anthony Trioux"
 ---
 
 Associate Professor - Electronics Engineering
