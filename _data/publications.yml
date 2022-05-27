@@ -1,11 +1,16 @@
 featured:
-- {name: 'A Comprehensive Theoretical Evaluation of the End-to-End Performance of SoftCast-based Linear Video Delivery Schemes. A. Trioux, M. Gharbi, F.-X. Coudoux, P. Corlay', url: '10.1016/j.image.2021.116369'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: '/publications/1501.07274.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'A Comprehensive Theoretical Evaluation of the End-to-End Performance of SoftCast-based Linear Video Delivery Schemes. A. Trioux, M. Gharbi, F.-X. Coudoux, P. Corlay', url: 'https://doi.org/10.1016/j.image.2021.116369'}
+- {name: 'Temporal Information based GoP Adaptation for Linear Delivery Schemes. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1016/j.image.2019.115734'}
+- {name: 'Channel Impulsive Noise Mitigation for Linear Video Coding Schemes. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/TCSVT.2019.2937451'}
+- {name: 'Optimal and suboptimal channel precoding and decoding matrices for linear video coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1016/j.image.2019.06.011'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'A Comprehensive Theoretical Evaluation of the End-to-End Performance of SoftCast-based Linear Video Delivery Schemes. A. Trioux, M. Gharbi, F.-X. Coudoux, P. Corlay', url: 'https://doi.org/10.1016/j.image.2021.116369'}
+- {name: 'Temporal Information based GoP Adaptation for Linear Delivery Schemes. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1016/j.image.2019.115734'}
+- {name: 'Channel Impulsive Noise Mitigation for Linear Video Coding Schemes. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/TCSVT.2019.2937451'}
+- {name: 'Optimal and suboptimal channel precoding and decoding matrices for linear video coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1016/j.image.2019.06.011'}
+
+- {name: 'A Perceptual Study of the Decoding Process of the SoftCast Wireless Video Broadcast Scheme. A. Trioux, G. Valenzise, M. Cagnazzo, M. Kieffer, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://ieeexplore.ieee.org/document/9733474'}
+- {name: 'Subjective and Objective Quality Assessment of the SoftCast Video Transmission Scheme. A. Trioux, G. Valenzise, M. Cagnazzo, M. Kieffer, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1109/VCIP49819.2020.9301778'}
+- {name: 'Channel Impulsive Noise Mitigation for Linear Video Coding Schemes. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/TCSVT.2019.2937451'}
+- {name: 'Optimal and suboptimal channel precoding and decoding matrices for linear video coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1016/j.image.2019.06.011'}
