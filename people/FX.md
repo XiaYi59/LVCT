@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "First Speaker"
+title: "Second Speaker"
 ---
 
-Associate Professor - Electronics Engineering
+Full Professor - Electronics Engineering
 
 Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Valenciennes, France
 
-Phone: +33 3 27 51 22 12
+Phone: +33 3 27 51 13 60
 
-Email: anthony.trioux@uphf.fr
+Email: francois-xavier.coudoux@uphf.fr
 
-Laboratory: IEMN, Office 111
+Laboratory: IEMN, Office XXX
 
 ---
 
-Anthony Trioux received the M.S. and Ph.D. degrees in electronics and communication engineering from the Université Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520), France, in 2015 and 2019, respectively. He was a lecturer in signal and video processing at The Higher Institute for Electronics and Digital Training (ISEN– YNCREA), Lille, France from 2016 to 2018 and an Assistant professor at Centrale Lille in electrical and telecommunication engineering from 2019 to 2020. He is currently an Associate professor at the Université Polytechnique Hauts-de-France/INSA Hauts-de-France. He acts as a reviewer for international peer-reviewed journals and conferences (e.g., Signal Processing: Image Communications, IEEE ICIP, VCIP, etc.). His research interests include signal, image, video processing and transmission subjective quality assessment, and more specifically reliable and low-latency video communications.
+François-Xavier Coudoux (M’07–SM’17) received the M.S. and Ph.D. degrees in electrical engineering from the University of Valenciennes, Valenciennes, France, in 1991 and 1994, respectively. He is currently in digital image/video processing and communications at the Univ. Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520). Since 2004, he has been a Professor with the Department of Opto-Acousto-Electronics, UMR 8520, Institute of Electronics, Microelectronics, and Nanotechnologies, Valenciennes, France. His research interests include telecommunications, multimedia delivery over wired and wireless networks, image quality, and adaptive video processing.
