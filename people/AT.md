@@ -9,7 +9,7 @@ Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Val
 
 Phone: +33 3 27 51 22 12
 
-Email: anthony.trioux@uphf.fr
+Email: <a href="mailto:anthony.trioux@uphf.fr">anthony.trioux@uphf.fr</a>
 
 Laboratory: IEMN, Office 111
 
