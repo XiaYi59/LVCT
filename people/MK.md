@@ -9,7 +9,7 @@ Univ. Paris-Saclay/Centrale Supélec - Rue Joliot Curie, Gif-sur-Yvette, France
 
 Phone: +33 3 XXXXXXXXXX
 
-Email: michel.kieffer@l2s.centralesupelec.fr
+Email: <a href="mailto:michel.kieffer@l2s.centralesupelec.fr">michel.kieffer@l2s.centralesupelec.fr</a>
 
 Laboratory: L2S, Office XXX
 
