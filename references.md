@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: references
 title: "References"
 ---
 
