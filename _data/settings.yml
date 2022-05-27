@@ -1,6 +1,7 @@
 menu:
 - {name: 'speakers', url: '/people'}
-- {name: 'publications', url: '/publications'}
+- {name: 'our publications', url: '/publications'}
+- {name: 'references', url: '/references'}
 #- {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
