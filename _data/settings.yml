@@ -9,12 +9,12 @@ people:
 - {name: 'Dr. Anthony Trioux', title: 'Associate Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '(000) 000-0000', email: 'anthony.trioux@uphf.fr', office: 'IEMN, Office 111', image: 'assets/img/contact.jpg', url: 'primary-investigator'}
 - {name: 'Pr. François-Xavier Coudoux', title: 'Full Professor', department: 'Electronics Engineering', institution: 'Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France', institution_address: 'Campus Mont Houy, Valenciennes, France', phone: '(000) 000-0000', email: 'francois-xavier.coudoux@uphf.fr', office: 'IEMN, Office XXX', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Pr. Marco Cagnazzo', title: 'Associate Professor', department: 'Information Engineering', institution: 'Univ. of Padua', institution_address: 'Via VIII Febbraio, 2, Padova PD, Italy', phone: '(000) 000-0000', email: 'marco.cagnazzo@unipd.it', office: 'to be defined', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
-- {name: 'Pr. Michel Kieffer', title: 'Full Professor', department: 'to be defined', institution: 'Univ. Paris-Saclay/Centrale Supéléc', institution_address: 'Rue Joliot Curie, Gif-sur-Yvette, France', phone: '(000) 000-0000', email: 'michel.kieffer@l2s-centralesupelec.fr', office: 'to be defined', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Pr. Michel Kieffer', title: 'Full Professor', department: 'to be defined', institution: 'Univ. Paris-Saclay/Centrale Supéléc', institution_address: 'Rue Joliot Curie, Gif-sur-Yvette, France', phone: '(000) 000-0000', email: 'michel.kieffer@l2s.centralesupelec.fr', office: 'to be defined', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
-#courses:
-#- {name: 'Vector Calculus', url: 'vector-calculus'}
-#- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-#- {name: 'Stellar Structures', url: 'stellar-structures'}
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 #- {icon: 'github', link: 'https://github.com/LeNPaul'}
