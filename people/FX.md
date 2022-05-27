@@ -9,7 +9,7 @@ Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Val
 
 Phone: +33 3 27 51 13 60
 
-Email: francois-xavier.coudoux@uphf.fr
+Email: <a href="mailto:francois-xavier.coudoux@uphf.fr">francois-xavier.coudoux@uphf.fr</a>
 
 Laboratory: IEMN, Office XXX
 
