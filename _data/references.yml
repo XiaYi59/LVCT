@@ -1,4 +1,4 @@
 index:
-- {name: '[C7] Precoding Matrix Design in Linear Video Coding. S. Zheng, M. Cagnazzo, and M. Kieffer'}
-- {name: '[C8] SoftCast with per-carrier power-constrained channels. S. Zheng, M. Antonini, M. Cagnazzo, L. Guerrieri, M. Kieffer, I. Nemoianu, R. Samy, and B. Zhang'}
-- {name: '[C9] Shannon-Kotel’Nikov mappings for SoftCast-based joint source-channel video coding. M. Cagnazzo and M. Kieffer'}
+- {name: '[C7] Precoding Matrix Design in Linear Video Coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: ''}
+- {name: '[C8] SoftCast with per-carrier power-constrained channels. S. Zheng, M. Antonini, M. Cagnazzo, L. Guerrieri, M. Kieffer, I. Nemoianu, R. Samy, and B. Zhang', url: ''}
+- {name: '[C9] Shannon-Kotel’Nikov mappings for SoftCast-based joint source-channel video coding. M. Cagnazzo and M. Kieffer', url: ''}
