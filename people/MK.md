@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "First Speaker"
+title: "Fourth Speaker"
 ---
 
-Associate Professor - Electronics Engineering
+Full Professor - XXXX
 
-Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Valenciennes, France
+Univ. Paris-Saclay/Centrale Supélec - Rue Joliot Curie, Gif-sur-Yvette, France
 
-Phone: +33 3 27 51 22 12
+Phone: +33 3 XXXXXXXXXX
 
-Email: anthony.trioux@uphf.fr
+Email: michel.kieffer@l2s.centralesupelec.fr
 
-Laboratory: IEMN, Office 111
+Laboratory: L2S, Office XXX
 
 ---
 
-Anthony Trioux received the M.S. and Ph.D. degrees in electronics and communication engineering from the Université Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520), France, in 2015 and 2019, respectively. He was a lecturer in signal and video processing at The Higher Institute for Electronics and Digital Training (ISEN– YNCREA), Lille, France from 2016 to 2018 and an Assistant professor at Centrale Lille in electrical and telecommunication engineering from 2019 to 2020. He is currently an Associate professor at the Université Polytechnique Hauts-de-France/INSA Hauts-de-France. He acts as a reviewer for international peer-reviewed journals and conferences (e.g., Signal Processing: Image Communications, IEEE ICIP, VCIP, etc.). His research interests include signal, image, video processing and transmission subjective quality assessment, and more specifically reliable and low-latency video communications.
+Michel Kieffer is a full professor in signal processing for communications at the Paris-Sud University and a researcher at the Laboratoire des Signaux et Systèmes, Gif-sur-Yvette. His research interests are in signal processing for multimedia, communications, and networking, distributed source coding, network coding, joint source-channel coding and decoding, joint source-network coding. Michel Kieffer is co-author of more than 170 contributions in journals and in conference proceedings. He filed 10 patents and is co-author of 2 books: Applied Interval Analysis published by Springer-Verlag in 2001, and Joint source-channel decoding: A cross layer perspective with applications in video broadcasting published by Academic Press in 2009. He serves as associate editor of Signal Processing since 2008 and of the IEEE Transactions on Communications from 2012 to 2016. From 2011 to 2016, Michel Kieffer was a junior member of the Institut Universitaire de France.
