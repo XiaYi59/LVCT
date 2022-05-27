@@ -1,7 +1,4 @@
 index:
-- {name: '[C7] Precoding Matrix Design in Linear Video Coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: ''}
-- {name: '[C8] SoftCast with per-carrier power-constrained channels. S. Zheng, M. Antonini, M. Cagnazzo, L. Guerrieri, M. Kieffer, I. Nemoianu, R. Samy, and B. Zhang', url: ''}
-- {name: '[C9] Shannon-Kotel’Nikov mappings for SoftCast-based joint source-channel video coding. M. Cagnazzo and M. Kieffer', url: ''}
 
 - {name: '[Chen2019] S. Chen, J. Wu, H. Ren, J. Wu, B. Zhang, and F. Zhu,  Hardware Implementation of a Pseudo-Analog Wireless Video Transmission System , in 2019 IEEE 19th International Conference on Communication Technology (ICCT), oct. 2019, p. 519-524, doi 10.1109/ICCT46805.2019.8947224.', url: ''}
 - {name: '[Cui2013] H. Cui, Z. Song, Z. Yang, C. Luo, R. Xiong, and F. Wu, Cactus a hybrid digital-analog wireless video communication system, in 16th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), Barcelona, Spain, November 3-8, 2013, 2013, pp. 273–278.', url: ''}
