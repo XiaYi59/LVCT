@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "First Speaker"
 ---
 
-Researcher - Physics & Astronomy
+Associate Professor - Electronics Engineering
 
-Some University - 1 Main Street, Canada
+Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Valenciennes, France
 
-Phone: (000) 000-0000
+Phone: +33 3 27 51 00 00
 
-Email: hello@university.edu
+Email: anthony.trioux@uphf.fr
 
-Office: Science Building 505
+Laboratory: IEMN, Office 111
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+Anthony Trioux received the M.S. and Ph.D. degrees in electronics and communication engineering from the Université Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520), France, in 2015 and 2019, respectively. He was a lecturer in signal and video processing at The Higher Institute for Electronics and Digital Training (ISEN– YNCREA), Lille, France from 2016 to 2018 and an Assistant professor at Centrale Lille in electrical and telecommunication engineering from 2019 to 2020. He is currently an Associate professor at the Université Polytechnique Hauts-de-France/INSA Hauts-de-France. He acts as a reviewer for international peer-reviewed journals and conferences (e.g., Signal Processing: Image Communications, IEEE ICIP, VCIP, etc.). His research interests include signal, image, video processing and transmission subjective quality assessment, and more specifically reliable and low-latency video communications.
