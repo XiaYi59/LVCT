@@ -8,7 +8,7 @@ Conventional video coding and transmission systems are currently based on digita
 Linear Video Coding and Transmission (LVCT) architectures, pioneered by the SoftCast scheme, have demonstrated over the last decade a high potential to address/mitigate the above issues. Such architectures process pixels by successive linear operations and directly transmit information without quantization or coding. This allows receivers to get a decoded video quality commensurate with their channel quality (i.e., graceful degradation), without requiring any feedback information, while avoiding complex adaptation mechanisms. This is a paradigm break with respect to traditional video transmission architectures, which has the potential of dramatically improving the quality of experience in wireless error-prone networks.<br>
 
 In this seminar, a brief presentation of the Univ. Polytechnique Hauts-de-France/ INSA Haut-de-France as well as the IEMN laboratory will be made. The second part of the seminar will be dedicated to the above mentioned LVCT approaches: first, issues with conventional digital schemes (e.g., cliff-effect) will be introduced. Then, a block-by-block description of the components of the baseline SoftCast LVCT scheme will be presented and visual examples provided to facilitate the understanding.<br> 
-
+<br> 
 <strong>Keywords</strong>: Linear Video Coding and Transmission (LVCT) architectures, SoftCast, Wireless Video Delivery, Visual Quality
 
 </div>
