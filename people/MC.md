@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "First Speaker"
+title: "Third Speaker"
 ---
 
-Associate Professor - Electronics Engineering
+Associate Professor - Information Engineering
 
-Univ. Polytechnique Hauts-de-France/INSA Hauts-de-France - Campus Mont Houy, Valenciennes, France
+Univ. of Padua - Campus Mont Houy, Valenciennes, France
 
-Phone: +33 3 27 51 22 12
+Phone: XXX
 
-Email: anthony.trioux@uphf.fr
+Email: marco.cagnazzo@unipd.it
 
-Laboratory: IEMN, Office 111
+Laboratory: XXX, Office XXX
 
 ---
 
-Anthony Trioux received the M.S. and Ph.D. degrees in electronics and communication engineering from the Université Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520), France, in 2015 and 2019, respectively. He was a lecturer in signal and video processing at The Higher Institute for Electronics and Digital Training (ISEN– YNCREA), Lille, France from 2016 to 2018 and an Assistant professor at Centrale Lille in electrical and telecommunication engineering from 2019 to 2020. He is currently an Associate professor at the Université Polytechnique Hauts-de-France/INSA Hauts-de-France. He acts as a reviewer for international peer-reviewed journals and conferences (e.g., Signal Processing: Image Communications, IEEE ICIP, VCIP, etc.). His research interests include signal, image, video processing and transmission subjective quality assessment, and more specifically reliable and low-latency video communications.
+Marco Cagnazzo (SM’11) obtained the Ph.D. degree in Information and Communication Technology from Federico II University and the University of Nice-Sophia Antipolis, Nice, France in 2005. Since 2018 he has been Full Professor at Telecom Paris, Institut Polytechnique de Paris and since 2015 he is the head of the Multimedia research team. He is author of more than 130 contributions in peer reviewed journals, conferences proceedings, book chapters and standardization documents. His current research interests include immersive and robust video communication, video delivery, network coding. Prof. Cagnazzo is an Associate Editor for IEEE Trans. on Circ. and Syst. Video Tech. and for IEEE Signal Processing Letters. He is also an Area Editor for Elsevier Signal Processing: Image Communication.
