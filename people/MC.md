@@ -5,7 +5,7 @@ title: "Third Speaker"
 
 Associate Professor - Information Engineering
 
-Univ. of Padua - Campus Mont Houy, Valenciennes, France
+Univ. of Padua - Via VIII Febbraio, 2, 35122 Padova PD, Italy
 
 Phone: XXX
 
