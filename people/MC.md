@@ -9,7 +9,7 @@ Univ. of Padua - Via VIII Febbraio, 2, 35122 Padova PD, Italy
 
 Phone: XXX
 
-Email: marco.cagnazzo@unipd.it
+Email: <a href="mailto:marco.cagnazzo@unipd.it">marco.cagnazzo@unipd.it</a>
 
 Laboratory: XXX, Office XXX
 
