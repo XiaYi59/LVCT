@@ -16,9 +16,9 @@ The tutorial lasts for 3 hours and follows the outline presented below:
 &nbsp; o Introduction: Issues with conventional digital schemes <br>
 &nbsp; o Detailed description of the SoftCast LVCT architecture <br>
 &nbsp; o Quality analysis of the LVCT architectures <br>
-&nbsp;&nbsp;  ▪ Theoretical analysis <br>
-&nbsp;&nbsp;  ▪ Introduction of the visual artifacts <br>
-&nbsp;&nbsp;  ▪ Video quality evaluation <br>
+&nbsp;&nbsp;&nbsp;&nbsp;   ▪ Theoretical analysis <br>
+&nbsp;&nbsp;&nbsp;&nbsp;   ▪ Introduction of the visual artifacts <br>
+&nbsp;&nbsp;&nbsp;&nbsp;   ▪ Video quality evaluation <br>
 &nbsp; o Main variants of the SoftCast LVCT solution
 
 ● Break (~15min)
