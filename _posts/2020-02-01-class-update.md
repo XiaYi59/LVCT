@@ -12,7 +12,7 @@ The tutorial lasts for 3 hours and follows the outline presented below:
 &nbsp; o Alternative: Towards a graceful degradation with LVCT <br>
 &nbsp; o Outline of the tutorial 
 
-● Part II (90mn): Baseline LVCT scheme: SoftCast <br>
+● Part II (95mn): Baseline LVCT scheme: SoftCast <br>
 &nbsp; o Introduction: Issues with conventional digital schemes <br>
 &nbsp; o Detailed description of the SoftCast LVCT architecture <br>
 &nbsp; o Quality analysis of the LVCT architectures <br>
@@ -23,7 +23,7 @@ The tutorial lasts for 3 hours and follows the outline presented below:
 
 ● Break (~15min)
 
-● Part III (25mn): SDR-based Hardware implementations <br>
+● Part III (20mn): SDR-based Hardware implementations <br>
 &nbsp; o From simulation to real implementation <br>
 &nbsp; o Current implementation and issues
 
