@@ -1,4 +1,4 @@
 ---
 layout: acknowledgment
-title: "Acknowledgment"
+title: "Acknowledgments"
 ---
